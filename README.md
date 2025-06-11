@@ -58,5 +58,5 @@ The module actively monitors social media content containing phrases such as:
 Clone the repo:
 
 ```bash
-git clone https://github.com/JediSecX/NSA-twitter-scrape
-cd OSINT-Aggregation
+git clone https://github.com/JediSecX/NSA-Twitter-scrape
+cd NSA-Twitter-scrape
